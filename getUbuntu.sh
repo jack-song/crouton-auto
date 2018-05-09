@@ -516,18 +516,18 @@ configure() {
     fi
 
     # Systems setup
-    cPhp
+    # cPhp
     cNodeJs
     cGit
     cDocker
-    cMySqlWorkbench
+    # cMySqlWorkbench
     cMongoDb
     cVsCodeIde
-    cPhpStormIde
-    cPyCharmIde
-    cSlack
-    cFacebookMessenger
-    cPopcornTime
+    # cPhpStormIde
+    # cPyCharmIde
+    # cSlack
+    # cFacebookMessenger
+    # cPopcornTime
     cLocalesPlusKeymap
     cClean
     exit
